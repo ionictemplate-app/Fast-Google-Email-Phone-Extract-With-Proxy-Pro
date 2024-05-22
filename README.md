@@ -9,9 +9,7 @@
 #### 📽 https://www.youtube.com/channel/UCz2Ti8uKwv0Fh5j5IgUTPww
 #### 📽 https://www.youtube.com/channel/UC6NZcaPmat9ooKW1yLxdnjQ
 
-# get here <a href="https://codecanyon.net/item/fast-google-emailphone-extract-pro/39945619" target="_blank">
-      Fast Google Email|Phone Extract Pro
-	   </a>
+# get here <a href="https://codecanyon.net/item/fast-google-emailphone-extract-pro/39945619" target="_blank">Fast Google Email|Phone Extract Pro</a>
 
 <p>
     Fast AllInOne Email Extractor is a powerful and efficient email extraction tool that allows you to quickly extract email addresses
